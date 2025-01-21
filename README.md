@@ -57,8 +57,8 @@ These insights form the basis for crime prevention strategies, targeted public a
   - Victim Demographics: The analysis focuses on age and gender, but additional socio-economic factors and ethnicity could provide deeper insights into the patterns of homicide.
 
 ## Resources
-See [the original dataset](https://github.com/Mazedaa/London-Homicide-Project/blob/main/original_homicide.xlsx%20-%20dataset.csv )
-See [my cleaning, analysis, and pivot tables](https://github.com/Mazedaa/London-Homicide-Project/blob/main/london_homicide_crime_clean.xlsx%20-%20dashboard.csv)
-See [my Google Sheet dashboard](https://github.com/Mazedaa/London-Homicide-Project/blob/main/HomicideGoogleSheetDashboard.png)
-See [my SQL queries](https://github.com/Mazedaa/London-Homicide-Project/blob/main/homicide.sql)
-See [my Tableau dashboard](https://github.com/Mazedaa/London-Homicide-Project/blob/main/HomicideTableauDashboard.png)
+- See [the original dataset](https://github.com/Mazedaa/London-Homicide-Project/blob/main/original_homicide.xlsx%20-%20dataset.csv )
+- See [my cleaning, analysis, and pivot tables](https://github.com/Mazedaa/London-HomicideProject/blob/main/london_homicide_crime_clean.xlsx%20-%20dashboard.csv)
+- See [my Google Sheet dashboard](https://github.com/Mazedaa/London-Homicide-Project/blob/main/HomicideGoogleSheetDashboard.png)
+- See [my SQL queries](https://github.com/Mazedaa/London-Homicide-Project/blob/main/homicide.sql)
+- See [my Tableau dashboard](https://github.com/Mazedaa/London-Homicide-Project/blob/main/HomicideTableauDashboard.png)
