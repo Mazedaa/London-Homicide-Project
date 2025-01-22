@@ -1,4 +1,4 @@
-# London Homicide Analysis
+# London Homicide Project
 
 ## Project Background
 As a Data Analyst focusing on crime trends in London, I analysed Metropolitan Police Service (MPS) homicide data from 2003 to 2023. The dataset includes details on the date of the homicide, the borough in which it occurred, the victim's demographics (age and gender), the offence type (e.g., murder, manslaughter), weapon types, and the case resolution status. The objective of this analysis was to transform raw data into actionable insights that can support crime prevention strategies, inform public policy, and enhance law enforcement efforts to reduce homicide rates and improve case resolution.
