@@ -1,15 +1,20 @@
 # London Homicide Project
 
 ## Project Background
-As a Data Analyst focusing on crime trends in London, I analysed Metropolitan Police Service (MPS) homicide data from 2003 to 2023. The dataset includes details on the date of the homicide, the borough in which it occurred, the victim's demographics (age and gender), the offence type (e.g., murder, manslaughter), weapon types, and the case resolution status. The objective of this analysis was to transform raw data into actionable insights that can support crime prevention strategies, inform public policy, and enhance law enforcement efforts to reduce homicide rates and improve case resolution.
+#### As a Data Analyst focusing on crime trends in London, I analysed Metropolitan Police Service (MPS) homicide data from 2003 to 2023. The dataset includes details on the date of the homicide, the borough in which it occurred, the victim's demographics (age and gender), the offence type (e.g., murder, manslaughter), weapon types, and the case resolution status. The objective of this analysis was to transform data into actionable insights that can support crime prevention strategies, inform public policy, and enhance law enforcement efforts to reduce homicide rates and improve case resolution.
 
 ## Executive Summary
-This analysis provides a comprehensive look at homicide trends across London, identifying key patterns in offence types, weapon usage, victim demographics, seasonal trends, and geographic hotspots. Key findings include:
+This analysis provides a comprehensive look at homicide trends across London, identifying key patterns in offence types, weapon usage, victim demographics, seasonal trends, and geographic hotspots. 
+
+Key findings include:
   - Declining Homicide Rates: Overall homicide rates have decreased since 2003, though there were notable spikes in 2017 and 2019.
   - Weapon Trends: Knives or sharp implements are the most commonly used weapons, involved in 52% of homicides.
   - Victim Demographics: Males make up 76% of victims, and the 25-35 age group is most affected.
   - Geographic Hotspots: Boroughs like Barking and Dagenham, Croydon, and Bromley exhibit notably high homicide rates.
   - Case Resolution: 94% of homicide cases have been resolved, though 6% remain unsolved.
+
+![Tableau Dashboard - Homicide](https://github.com/Mazedaa/London-Homicide-Project/blob/main/HomicideTableauDashboard.png)
+
 These insights form the basis for crime prevention strategies, targeted public awareness campaigns, and law enforcement actions to further reduce homicides and improve case resolution rates.
 
 ## Insights Deep-Dive
