@@ -53,9 +53,9 @@ These insights form the basis for crime prevention strategies, targeted public a
 ## Recommendations
 #### 1. Enhance Public Awareness Campaigns: Launch targeted campaigns on knife crime prevention in areas and promote domestic violence awareness, addressing the 17% of homicides linked to domestic abuse.
 
-### 2. Targeted Crime Prevention: Create youth engagement programs for young males (18-35) focusing on mental health, conflict resolution, and gang violence prevention, while improving domestic violence interventions with more shelters, legal support, and counselling.
+#### 2. Targeted Crime Prevention: Create youth engagement programs for young males (18-35) focusing on mental health, conflict resolution, and gang violence prevention, while improving domestic violence interventions with more shelters, legal support, and counselling.
 
-####  3. Law Enforcement & Community Engagement: Boost police presence and patrols in crime hotspots, partner with local organisations to enhance community safety initiatives, and improve cold case investigations using advanced forensic methods.
+#### 3. Law Enforcement & Community Engagement: Boost police presence and patrols in crime hotspots, partner with local organisations to enhance community safety initiatives, and improve cold case investigations using advanced forensic methods.
 
 ![Recommedations](https://github.com/Mazedaa/London-Homicide-Project/blob/main/HomicideDashboard/homicideHand.jpg)
 
